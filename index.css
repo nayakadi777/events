@@ -1,0 +1,6 @@
+div {
+    max-height: 500px;
+    max-width: 500px;
+    padding: 30px;
+    border: 1px solid black;
+}
